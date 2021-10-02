@@ -5,3 +5,6 @@ As the applications of AR is blooming rapidly, the AR industry is expanding and 
 this project simply uses the ARKit2 framework introduced by apple in WWDC and uses the image detection and horizontal plane 
 to render a 3D model of detected pokemon card on the created plane node 
 
+# Author
+
+<a href="https://github.com/aashay15">Aashay Sharma</a>
