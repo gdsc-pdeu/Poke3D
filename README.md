@@ -7,4 +7,4 @@ to render a 3D model of detected pokemon card on the created plane node
 
 # Author
 
-<a href="https://github.com/aashay15">Aashay Sharma</a>
+<a href="https://github.com/aashay15">Aashay Sharma</a> | NJIET
